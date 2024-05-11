@@ -55,13 +55,3 @@ The "Energy Efficiency Maximization in Smart Homes" project leverages Multi-Agen
 
 ## Usage
 Once the application is running, navigate through the user interface to configure device settings, view real-time energy consumption data, and receive personalized recommendations for energy efficiency.
-
-## Contributing
-Contributions are welcome! Please read through our contributing guidelines to learn about our review process, coding conventions, and more. If you're planning to propose a major change, please discuss it with the maintainers first.
-
-## License
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
----
-
-This README.md file is designed to provide all the necessary information for anyone interested in the project, including how to set up and run the system. Adjust paths and URLs as per your actual GitHub repository details.
