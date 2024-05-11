@@ -6,7 +6,6 @@ The "Energy Efficiency Maximization in Smart Homes" project leverages Multi-Agen
 ## Repository Structure
 ### `/backend`
 - **`server.py`**: Contains the server-side logic that interacts with the front end, processes data, and executes the Q-learning algorithms.
-- **`algorithms/`**: Directory containing the Q-Learning and other machine learning algorithms used to manage energy efficiency.
 
 ### `/frontend`
 - **`components/`**: React components used to build the user interface.
