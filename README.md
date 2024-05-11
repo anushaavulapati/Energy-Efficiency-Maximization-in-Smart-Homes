@@ -1,7 +1,3 @@
-Based on the screenshot of your GitHub repository "Energy-Efficiency-Maximization-in-Smart-Homes", here's an expanded README.md file that explains each folder and how to run the project:
-
----
-
 # Energy Efficiency Maximization in Smart Homes
 
 ## Overview
