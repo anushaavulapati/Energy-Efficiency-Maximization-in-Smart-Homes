@@ -29,7 +29,6 @@ The "Energy Efficiency Maximization in Smart Homes" project leverages Multi-Agen
    Navigate to the backend directory and install the required Python packages.
    ```
    cd backend
-   pip install -r requirements.txt
    ```
 
 3. **Set Up the Frontend**
