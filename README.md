@@ -8,7 +8,7 @@ The "Energy Efficiency Maximization in Smart Homes" project leverages Multi-Agen
 - **`server.py`**: Contains the server-side logic that interacts with the front end, processes data, and executes the Q-learning algorithms.
 
 ### `/frontend`
-- **`components/`**: React components used to build the user interface.
+- **`src/`**: React components used to build the user interface.
 - **`App.js`**: Main React application file where the components are integrated.
 - **`index.js`**: Entry point for the React application.
 
